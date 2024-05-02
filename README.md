@@ -23,3 +23,7 @@
 - [RHEL 8.1 - Live Kernel Patching](https://www.youtube.com/watch?v=RHKESTHFm0o) - YouTube video
 - [Using Satellite for Red Hat Enterprise Linux Live Kernel Patching](https://www.youtube.com/watch?v=lUofdsUXcZ8) - YouTube Video
 - [Red Hat Errata - kpatch information](https://access.redhat.com/errata-search/?q=kpatch&p=1&sort=portal_publication_date+desc&rows=10&portal_product=Red%5C+Hat%5C+Enterprise%5C+Linux)
+
+### Patch Management
+- [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
+- [What is patch management (and automation)?](https://www.redhat.com/en/topics/management/what-patch-management-and-automation)
