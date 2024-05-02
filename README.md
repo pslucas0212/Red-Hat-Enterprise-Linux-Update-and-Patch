@@ -14,6 +14,7 @@
 - [Red Hat Update Infrastructure](https://access.redhat.com/products/red-hat-update-infrastructure)
 - [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
 - [Identify packages that will require a system reboot after an update](https://access.redhat.com/solutions/27943)
+- [Is it possible to limit yum so that it lists or installs only security updates[?]()](https://access.redhat.com/solutions/10021)
 
 ### Kernel Live Patching
 - [What is Linux kernel live patching?](https://www.redhat.com/en/topics/linux/what-is-linux-kernel-live-patching)
@@ -30,3 +31,7 @@
 - [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
 - [What is patch management (and automation)?](https://www.redhat.com/en/topics/management/what-patch-management-and-automation)
 - [How to automate Linux patching with Ansible](https://www.redhat.com/sysadmin/ansible-linux-patch-ansible)
+- [Linux patch management: How to back out a failed patch](https://www.redhat.com/sysadmin/revert-patch-gone-wrong)
+- [Patching Practices | Into the Terminal 19](https://www.youtube.com/watch?v=67Ng_FGeRC4) - YouTube
+- [Simplifying Patch Management | Modernizing RHEL Management 03](https://www.youtube.com/watch?v=u_sUHz4eK-c)
+]()///
