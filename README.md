@@ -13,13 +13,14 @@
 - [Create an Apache-based YUM/DNF repository on Red Hat Enterprise Linux 8]()
 - [Red Hat Update Infrastructure](https://access.redhat.com/products/red-hat-update-infrastructure)
 - [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
+- [Identify packages that will require a system reboot after an update](https://access.redhat.com/solutions/27943)
 
 ### Kernel Live Patching
 - [What is Linux kernel live patching?](https://www.redhat.com/en/topics/linux/what-is-linux-kernel-live-patching)
 - [How to enable live kernel patching on Linux](https://www.redhat.com/sysadmin/kernel-live-patching-linux)
 - [Is live kernel patch (kpatch) supported in Red Hat Enterprise Linux ?](https://access.redhat.com/solutions/2206511)
 - [Overcoming vulnerabilities with live kernel patching in Red Hat Enterprise Linux 8.5](https://www.redhat.com/en/blog/overcoming-vulnerabilities-live-kernel-patching-red-hat-enterprise-linux-85)
-- [https://www.redhat.com/en/interactive-labs/reduce-unplanned-maintenance-kernel-live-patching](https://www.redhat.com/en/interactive-labs/reduce-unplanned-maintenance-kernel-live-patching) - Red Hat instruqt hands-on lab
+- [Reduce unplanned maintenance with Kernel live patching](https://www.redhat.com/en/interactive-labs/reduce-unplanned-maintenance-kernel-live-patching) - Red Hat instruqt hands-on lab
 - [RHEL package updates and live kernel patching with Red Hat Satellite](https://www.redhat.com/en/blog/rhel-package-updates-and-live-kernel-patching-red-hat-satellite)
 - [RHEL 8.1 - Live Kernel Patching](https://www.youtube.com/watch?v=RHKESTHFm0o) - YouTube video
 - [Using Satellite for Red Hat Enterprise Linux Live Kernel Patching](https://www.youtube.com/watch?v=lUofdsUXcZ8) - YouTube Video
@@ -28,3 +29,4 @@
 ### Patch Management
 - [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
 - [What is patch management (and automation)?](https://www.redhat.com/en/topics/management/what-patch-management-and-automation)
+- [How to automate Linux patching with Ansible](https://www.redhat.com/sysadmin/ansible-linux-patch-ansible)
