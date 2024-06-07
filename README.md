@@ -34,4 +34,3 @@
 - [Linux patch management: How to back out a failed patch](https://www.redhat.com/sysadmin/revert-patch-gone-wrong)
 - [Patching Practices | Into the Terminal 19](https://www.youtube.com/watch?v=67Ng_FGeRC4) - YouTube
 - [Simplifying Patch Management | Modernizing RHEL Management 03](https://www.youtube.com/watch?v=u_sUHz4eK-c)
-]()///
