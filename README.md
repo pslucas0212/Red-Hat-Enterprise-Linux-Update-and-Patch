@@ -14,7 +14,7 @@
 - [Red Hat Update Infrastructure](https://access.redhat.com/products/red-hat-update-infrastructure)
 - [Best practices for patch management](https://www.redhat.com/en/blog/best-practices-patch-management)
 - [Identify packages that will require a system reboot after an update](https://access.redhat.com/solutions/27943)
-- [Is it possible to limit yum so that it lists or installs only security updates[?]()](https://access.redhat.com/solutions/10021)
+- [Is it possible to limit yum so that it lists or installs only security updates ?](https://access.redhat.com/solutions/10021)
 
 ### Kernel Live Patching
 - [What is Linux kernel live patching?](https://www.redhat.com/en/topics/linux/what-is-linux-kernel-live-patching)
